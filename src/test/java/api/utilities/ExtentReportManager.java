@@ -1,8 +1,5 @@
 package api.utilities;
 
-import java.awt.Desktop;
-import java.io.File;
-import java.io.IOException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
@@ -38,12 +35,12 @@ public class ExtentReportManager implements ITestListener
 		sparkReporter = new ExtentSparkReporter(".\\reports\\"+repName);//specify location of the report
 		
 		sparkReporter.config().setDocumentTitle("RestAssuredAutomationProject");//Title of the Report
-		sparkReporter.config().setReportName("Pet Store Users API");//name of the report
+		sparkReporter.config().setReportName("PetStore Store API");//name of the report
 		sparkReporter.config().setTheme(Theme.DARK);
 		
 		extent = new ExtentReports();
 		extent.attachReporter(sparkReporter);
-		extent.setSystemInfo("Application","Pet Store Users API" );
+		extent.setSystemInfo("Application","PetStore Store API" );
 		extent.setSystemInfo("Operating System", System.getProperty("os.name"));
 		extent.setSystemInfo("User Name", System.getProperty("user.name"));
 		extent.setSystemInfo("Environment", "QA");

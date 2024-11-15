@@ -25,9 +25,7 @@ public class DataProviders
 			}
 		}
 		
-		return apidata;
-		
-		
+		return apidata;	
 	}
 	
 	@DataProvider(name="UserNames")

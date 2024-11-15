@@ -1,17 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite name="PetSuite">
+
+<suite name="PetStoreSuite">
 
 <listeners>
     <listener class-name="api.utilities.ExtentReportManager"/>
 </listeners>
 
 
-  <test  name="PetTests">
+  <test  name="PetStoreTests">
     <classes>
-      <class name="api.test.UserTests"/>
+     <!-- <class name="api.test.UserTests"/>-->
       <!--<class name="api.test.UserTests2"/>-->
      <!--<class name="api.test.DDTests"/>-->
+     <!-- <class name="api.test.StoreTests"/>-->
+     <class name="api.test.StoreTests2"/>
+    <!-- <class name="api.test.StoreDDTests"/>-->
+     
      
     </classes>
   </test>  

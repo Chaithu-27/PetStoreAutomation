@@ -1,10 +1,17 @@
 E:\RestAssured-Workspace\PetStoreAutomation\src\test\java\api\endpoints\Routes.java
+E:\RestAssured-Workspace\PetStoreAutomation\src\test\java\api\endpoints\StoreEndPoints.java
+E:\RestAssured-Workspace\PetStoreAutomation\src\test\java\api\endpoints\StoreEndPoints2.java
 E:\RestAssured-Workspace\PetStoreAutomation\src\test\java\api\endpoints\UserEndPoints.java
 E:\RestAssured-Workspace\PetStoreAutomation\src\test\java\api\endpoints\UserEndPoints2.java
+E:\RestAssured-Workspace\PetStoreAutomation\src\test\java\api\payload\Store.java
 E:\RestAssured-Workspace\PetStoreAutomation\src\test\java\api\payload\User.java
 E:\RestAssured-Workspace\PetStoreAutomation\src\test\java\api\test\DDTests.java
+E:\RestAssured-Workspace\PetStoreAutomation\src\test\java\api\test\StoreDDTests.java
+E:\RestAssured-Workspace\PetStoreAutomation\src\test\java\api\test\StoreTests.java
+E:\RestAssured-Workspace\PetStoreAutomation\src\test\java\api\test\StoreTests2.java
 E:\RestAssured-Workspace\PetStoreAutomation\src\test\java\api\test\UserTests.java
 E:\RestAssured-Workspace\PetStoreAutomation\src\test\java\api\test\UserTests2.java
 E:\RestAssured-Workspace\PetStoreAutomation\src\test\java\api\utilities\DataProviders.java
+E:\RestAssured-Workspace\PetStoreAutomation\src\test\java\api\utilities\DataProvidersStore.java
 E:\RestAssured-Workspace\PetStoreAutomation\src\test\java\api\utilities\ExtentReportManager.java
 E:\RestAssured-Workspace\PetStoreAutomation\src\test\java\api\utilities\XLUtility.java

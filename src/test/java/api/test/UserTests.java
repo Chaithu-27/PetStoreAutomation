@@ -56,6 +56,7 @@ public class UserTests
 		logger.info("*********** Reading user Info ********");
 		Response response=UserEndPoints.readUser(this.userPayload.getUsername());
 		response.then().log().all();
+		
 		Assert.assertEquals(response.statusCode(), 200);
 		logger.info("*********** User info is displayed********");
 	}

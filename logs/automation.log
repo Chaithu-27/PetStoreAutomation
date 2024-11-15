@@ -54,3 +54,206 @@
 13:24:55.572 [main] INFO  api.test.UserTests - *********** User is updated ********
 13:24:56.891 [main] INFO  api.test.UserTests - ***********Deleting User********
 13:24:58.254 [main] INFO  api.test.UserTests - ***********User deleted********
+21:28:16.103 [main] INFO  api.test.StoreTests - ***************Placing an order for Pet***********
+21:28:17.660 [main] INFO  api.test.StoreTests - *************Get the pet info by Id**********
+21:28:18.177 [main] INFO  api.test.StoreTests - ***********Deleting a pet by id*********
+21:34:53.693 [main] INFO  api.test.StoreTests - ***************Placing an order for Pet***********
+21:34:54.604 [main] INFO  api.test.StoreTests - *************Get the pet info by Id**********
+21:34:57.825 [main] INFO  api.test.StoreTests - ***********Deleting a pet by id*********
+21:39:19.690 [main] INFO  api.test.StoreTests - ***************Placing an order for Pet***********
+21:39:20.600 [main] INFO  api.test.StoreTests - *************Get the pet info by Id**********
+21:39:23.423 [main] INFO  api.test.StoreTests - ***********Deleting a pet by id*********
+21:42:19.794 [main] INFO  api.test.StoreTests - ***************Placing an order for Pet***********
+21:42:23.565 [main] INFO  api.test.StoreTests - *************Get the pet info by Id**********
+21:42:24.915 [main] INFO  api.test.StoreTests - ***********Deleting a pet by id*********
+21:47:34.334 [main] INFO  api.test.StoreTests - ***************Placing an order for Pet***********
+21:47:37.999 [main] INFO  api.test.StoreTests - ************Order has been placed for pet******
+21:47:38.009 [main] INFO  api.test.StoreTests - *************Get the pet info by Id**********
+21:47:39.792 [main] INFO  api.test.StoreTests - ***********Deleting a pet by id*********
+22:04:40.420 [main] INFO  api.test.StoreTests - ***************Placing an order for Pet***********
+22:04:45.020 [main] INFO  api.test.StoreTests - ************Order has been placed for pet******
+22:04:45.043 [main] INFO  api.test.StoreTests - *************Get the pet info by Id**********
+22:04:46.965 [main] INFO  api.test.StoreTests - ***********Deleting a pet by id*********
+22:07:08.968 [main] INFO  api.test.StoreTests - ***************Placing an order for Pet***********
+22:07:13.010 [main] INFO  api.test.StoreTests - ************Order has been placed for pet******
+22:07:13.018 [main] INFO  api.test.StoreTests - *************Get the pet info by Id**********
+22:07:14.905 [main] INFO  api.test.StoreTests - ***********Deleting a pet by id*********
+22:16:27.954 [main] INFO  api.test.StoreTests - ***************Placing an order for Pet***********
+22:16:32.353 [main] INFO  api.test.StoreTests - ************Order has been placed for pet******
+22:16:32.362 [main] INFO  api.test.StoreTests - *************Get the pet info by Id**********
+22:16:34.293 [main] INFO  api.test.StoreTests - ***********Deleting a pet by id*********
+22:22:55.791 [main] INFO  api.test.StoreTests - ***************Placing an order for Pet***********
+22:23:00.186 [main] INFO  api.test.StoreTests - ************Order has been placed for pet******
+22:23:00.196 [main] INFO  api.test.StoreTests - *************Get the pet info by Id**********
+22:29:24.009 [main] INFO  api.test.StoreTests - ***************Placing an order for Pet***********
+22:29:28.262 [main] INFO  api.test.StoreTests - ************Order has been placed for pet******
+22:29:28.271 [main] INFO  api.test.StoreTests - *************Get the pet info by Id**********
+22:38:20.187 [main] INFO  api.test.StoreTests - ***************Placing an order for Pet***********
+22:38:24.271 [main] INFO  api.test.StoreTests - ************Order has been placed for pet******
+22:38:24.288 [main] INFO  api.test.StoreTests - *************Get the pet info by Id**********
+22:51:24.720 [main] INFO  api.test.StoreTests - ***************Placing an order for Pet***********
+22:51:28.640 [main] INFO  api.test.StoreTests - ************Order has been placed for pet******
+22:51:28.653 [main] INFO  api.test.StoreTests - *************Get the pet info by Id**********
+22:51:30.517 [main] INFO  api.test.StoreTests - **********Pet info has been displayed******
+22:57:04.058 [main] INFO  api.test.StoreTests - ***************Placing an order for Pet***********
+22:57:08.181 [main] INFO  api.test.StoreTests - ************Order has been placed for pet******
+22:57:08.195 [main] INFO  api.test.StoreTests - *************Get the pet info by Id**********
+22:57:10.115 [main] INFO  api.test.StoreTests - **********Pet info has been displayed******
+23:05:40.218 [main] INFO  api.test.StoreTests - ***************Placing an order for Pet***********
+23:05:44.862 [main] INFO  api.test.StoreTests - ************Order has been placed for pet******
+23:05:44.870 [main] INFO  api.test.StoreTests - *************Get the pet info by Id**********
+23:05:46.234 [main] INFO  api.test.StoreTests - **********Pet info has been displayed******
+23:06:15.736 [main] INFO  api.test.StoreTests - ***************Placing an order for Pet***********
+23:06:20.257 [main] INFO  api.test.StoreTests - ************Order has been placed for pet******
+23:06:20.272 [main] INFO  api.test.StoreTests - *************Get the pet info by Id**********
+23:06:21.761 [main] INFO  api.test.StoreTests - ***********Deleting a pet by id*********
+23:07:05.034 [main] INFO  api.test.StoreTests - ***************Placing an order for Pet***********
+23:07:09.252 [main] INFO  api.test.StoreTests - ************Order has been placed for pet******
+23:07:09.259 [main] INFO  api.test.StoreTests - *************Get the pet info by Id**********
+23:07:10.633 [main] INFO  api.test.StoreTests - **********Pet info has been displayed******
+23:07:10.644 [main] INFO  api.test.StoreTests - ***********Deleting a pet by id*********
+23:08:33.196 [main] INFO  api.test.StoreTests - ***************Placing an order for Pet***********
+23:08:37.378 [main] INFO  api.test.StoreTests - ************Order has been placed for pet******
+23:08:37.387 [main] INFO  api.test.StoreTests - *************Get the pet info by Id**********
+23:08:38.691 [main] INFO  api.test.StoreTests - **********Pet info has been displayed******
+23:08:38.704 [main] INFO  api.test.StoreTests - ***********Deleting a pet by id*********
+23:12:36.685 [main] INFO  api.test.StoreTests - ***************Placing an order for Pet***********
+23:12:40.659 [main] INFO  api.test.StoreTests - ************Order has been placed for pet******
+23:12:40.667 [main] INFO  api.test.StoreTests - *************Get the pet info by Id**********
+23:12:40.673 [main] INFO  api.test.StoreTests - ***********Deleting a pet by id*********
+23:17:58.088 [main] INFO  api.test.StoreTests - ***************Placing an order for Pet***********
+23:18:02.609 [main] INFO  api.test.StoreTests - ************Order has been placed for pet******
+23:18:02.624 [main] INFO  api.test.StoreTests - *************Get the pet info by Id**********
+23:18:04.065 [main] INFO  api.test.StoreTests - **********Pet info has been displayed******
+23:18:04.075 [main] INFO  api.test.StoreTests - ***********Deleting a pet by id*********
+23:20:59.692 [main] INFO  api.test.UserTests - ***********Creating user********
+23:21:03.816 [main] INFO  api.test.UserTests - *********** User is created ********
+23:21:03.825 [main] INFO  api.test.UserTests - *********** Reading user Info ********
+23:21:03.873 [main] INFO  api.test.UserTests - ***********Updating user********
+23:21:03.876 [main] INFO  api.test.UserTests - ***********Deleting User********
+23:27:21.248 [main] INFO  api.test.StoreTests - ***************Placing an order for Pet***********
+23:27:25.406 [main] INFO  api.test.StoreTests - ************Order has been placed for pet******
+23:27:25.421 [main] INFO  api.test.StoreTests - *************Get the pet info by Id**********
+23:27:25.487 [main] INFO  api.test.StoreTests - ***********Deleting a pet by id*********
+23:28:20.506 [main] INFO  api.test.StoreTests - ***************Placing an order for Pet***********
+23:28:26.539 [main] INFO  api.test.StoreTests - ************Order has been placed for pet******
+23:28:26.550 [main] INFO  api.test.StoreTests - *************Get the pet info by Id**********
+23:28:27.888 [main] INFO  api.test.StoreTests - **********Pet info has been displayed******
+23:28:27.899 [main] INFO  api.test.StoreTests - ***********Deleting a pet by id*********
+23:29:07.654 [main] INFO  api.test.StoreTests - ***************Placing an order for Pet***********
+23:29:11.485 [main] INFO  api.test.StoreTests - ************Order has been placed for pet******
+23:29:11.493 [main] INFO  api.test.StoreTests - *************Get the pet info by Id**********
+23:29:12.923 [main] INFO  api.test.StoreTests - **********Pet info has been displayed******
+23:49:19.532 [main] INFO  api.test.StoreTests - ***************Placing an order for Pet***********
+23:49:23.560 [main] INFO  api.test.StoreTests - ************Order has been placed for pet******
+23:49:23.567 [main] INFO  api.test.StoreTests - *************Get the pet info by Id**********
+23:49:24.902 [main] INFO  api.test.StoreTests - **********Pet info has been displayed******
+23:50:03.550 [main] INFO  api.test.StoreTests - ***************Placing an order for Pet***********
+23:50:07.785 [main] INFO  api.test.StoreTests - ************Order has been placed for pet******
+23:50:07.796 [main] INFO  api.test.StoreTests - *************Get the pet info by Id**********
+23:50:09.217 [main] INFO  api.test.StoreTests - **********Pet info has been displayed******
+19:38:30.679 [main] INFO  api.test.UserTests - ***********Creating user********
+19:38:36.108 [main] INFO  api.test.UserTests - *********** User is created ********
+19:38:36.141 [main] INFO  api.test.UserTests - *********** Reading user Info ********
+19:38:37.468 [main] INFO  api.test.UserTests - *********** User info is displayed********
+19:38:37.477 [main] INFO  api.test.UserTests - ***********Updating user********
+19:38:38.799 [main] INFO  api.test.UserTests - *********** User is updated ********
+19:38:40.116 [main] INFO  api.test.UserTests - ***********Deleting User********
+19:38:41.457 [main] INFO  api.test.UserTests - ***********User deleted********
+22:31:44.283 [main] INFO  api.test.StoreTests - ***************Placing an order for Pet***********
+22:31:48.759 [main] INFO  api.test.StoreTests - ************Order has been placed for pet******
+22:31:48.767 [main] INFO  api.test.StoreTests - *************Get the pet info by Id**********
+22:33:44.969 [main] INFO  api.test.StoreTests - ***************Placing an order for Pet***********
+22:33:49.206 [main] INFO  api.test.StoreTests - ************Order has been placed for pet******
+22:33:49.215 [main] INFO  api.test.StoreTests - *************Get the pet info by Id**********
+22:35:15.490 [main] INFO  api.test.StoreTests - ***************Placing an order for Pet***********
+22:35:19.739 [main] INFO  api.test.StoreTests - ************Order has been placed for pet******
+22:35:19.752 [main] INFO  api.test.StoreTests - *************Get the pet info by Id**********
+22:36:08.536 [main] INFO  api.test.StoreTests - ***************Placing an order for Pet***********
+22:36:12.735 [main] INFO  api.test.StoreTests - ************Order has been placed for pet******
+22:36:12.749 [main] INFO  api.test.StoreTests - *************Get the pet info by Id**********
+22:36:42.628 [main] INFO  api.test.StoreTests - ***************Placing an order for Pet***********
+22:36:46.277 [main] INFO  api.test.StoreTests - ************Order has been placed for pet******
+22:36:46.290 [main] INFO  api.test.StoreTests - *************Get the pet info by Id**********
+22:37:29.784 [main] INFO  api.test.StoreTests - ***************Placing an order for Pet***********
+22:37:33.652 [main] INFO  api.test.StoreTests - ************Order has been placed for pet******
+22:37:33.665 [main] INFO  api.test.StoreTests - *************Get the pet info by Id**********
+22:37:36.085 [main] INFO  api.test.StoreTests - **********Pet info has been displayed******
+22:39:24.604 [main] INFO  api.test.StoreTests - ***************Placing an order for Pet***********
+22:39:28.738 [main] INFO  api.test.StoreTests - ************Order has been placed for pet******
+22:39:28.755 [main] INFO  api.test.StoreTests - *************Get the pet info by Id**********
+22:39:29.918 [main] INFO  api.test.StoreTests - **********Pet info has been displayed******
+22:40:23.254 [main] INFO  api.test.StoreTests - ***************Placing an order for Pet***********
+22:40:26.921 [main] INFO  api.test.StoreTests - ************Order has been placed for pet******
+22:40:58.169 [main] INFO  api.test.StoreTests - ***************Placing an order for Pet***********
+22:41:02.739 [main] INFO  api.test.StoreTests - ************Order has been placed for pet******
+23:05:02.733 [main] INFO  api.test.StoreTests - ***************Placing an order for Pet***********
+23:05:07.625 [main] INFO  api.test.StoreTests - ************Order has been placed for pet******
+23:05:07.634 [main] INFO  api.test.StoreTests - *************Get the pet info by Id**********
+23:05:08.894 [main] INFO  api.test.StoreTests - **********Pet info has been displayed******
+23:06:08.353 [main] INFO  api.test.StoreTests - ***************Placing an order for Pet***********
+23:06:21.983 [main] INFO  api.test.StoreTests - *************Get the pet info by Id**********
+23:08:45.629 [main] INFO  api.test.StoreTests - ***************Placing an order for Pet***********
+23:08:50.041 [main] INFO  api.test.StoreTests - ************Order has been placed for pet******
+23:08:50.051 [main] INFO  api.test.StoreTests - *************Get the pet info by Id**********
+23:08:51.199 [main] INFO  api.test.StoreTests - **********Pet info has been displayed******
+23:11:13.371 [main] INFO  api.test.StoreTests - ***************Placing an order for Pet***********
+23:11:23.445 [main] INFO  api.test.StoreTests - ************Order has been placed for pet******
+23:11:23.454 [main] INFO  api.test.StoreTests - *************Get the pet info by Id**********
+23:11:24.643 [main] INFO  api.test.StoreTests - **********Pet info has been displayed******
+23:14:40.555 [main] INFO  api.test.StoreTests - ***************Placing an order for Pet***********
+23:14:44.340 [main] INFO  api.test.StoreTests - ************Order has been placed for pet******
+23:14:44.359 [main] INFO  api.test.StoreTests - *************Get the pet info by Id**********
+23:14:45.577 [main] INFO  api.test.StoreTests - **********Pet info has been displayed******
+23:17:02.981 [main] INFO  api.test.StoreTests - ***************Placing an order for Pet***********
+23:17:07.041 [main] INFO  api.test.StoreTests - ************Order has been placed for pet******
+23:17:07.059 [main] INFO  api.test.StoreTests - *************Get the pet info by Id**********
+23:17:08.423 [main] INFO  api.test.StoreTests - **********Pet info has been displayed******
+23:19:01.029 [main] INFO  api.test.StoreTests - ***************Placing an order for Pet***********
+23:19:04.898 [main] INFO  api.test.StoreTests - ************Order has been placed for pet******
+23:19:04.910 [main] INFO  api.test.StoreTests - *************Get the pet info by Id**********
+23:19:06.202 [main] INFO  api.test.StoreTests - **********Pet info has been displayed******
+23:22:08.039 [main] INFO  api.test.StoreTests - ***************Placing an order for Pet***********
+23:22:12.854 [main] INFO  api.test.StoreTests - *************Get the pet info by Id**********
+23:22:14.199 [main] INFO  api.test.StoreTests - **********Pet info has been displayed******
+23:22:43.077 [main] INFO  api.test.StoreTests - ***************Placing an order for Pet***********
+23:22:47.232 [main] INFO  api.test.StoreTests - ************Order has been placed for pet******
+23:22:47.260 [main] INFO  api.test.StoreTests - *************Get the pet info by Id**********
+23:22:48.600 [main] INFO  api.test.StoreTests - **********Pet info has been displayed******
+23:23:31.633 [main] INFO  api.test.StoreTests - ***************Placing an order for Pet***********
+23:23:35.490 [main] INFO  api.test.StoreTests - ************Order has been placed for pet******
+23:23:35.504 [main] INFO  api.test.StoreTests - *************Get the pet info by Id**********
+23:23:36.820 [main] INFO  api.test.StoreTests - **********Pet info has been displayed******
+23:24:46.442 [main] INFO  api.test.StoreTests - ***************Placing an order for Pet***********
+23:24:51.467 [main] INFO  api.test.StoreTests - ************Order has been placed for pet******
+23:24:51.474 [main] INFO  api.test.StoreTests - *************Get the pet info by Id**********
+23:24:52.660 [main] INFO  api.test.StoreTests - **********Pet info has been displayed******
+23:25:43.178 [main] INFO  api.test.StoreTests - ***************Placing an order for Pet***********
+23:25:47.759 [main] INFO  api.test.StoreTests - *************Get the pet info by Id**********
+23:25:48.946 [main] INFO  api.test.StoreTests - **********Pet info has been displayed******
+23:32:29.824 [main] INFO  api.test.StoreTests - ***************Placing an order for Pet***********
+23:32:33.916 [main] INFO  api.test.StoreTests - ************Order has been placed for pet******
+23:32:33.931 [main] INFO  api.test.StoreTests - *************Get the pet info by Id**********
+23:32:35.221 [main] INFO  api.test.StoreTests - **********Pet info has been displayed******
+23:35:52.849 [main] INFO  api.test.StoreTests - ***************Placing an order for Pet***********
+23:35:57.105 [main] INFO  api.test.StoreTests - ************Order has been placed for pet******
+23:35:57.115 [main] INFO  api.test.StoreTests - *************Get the pet info by Id**********
+23:35:58.348 [main] INFO  api.test.StoreTests - **********Pet info has been displayed******
+23:39:02.160 [main] INFO  api.test.StoreTests - ***************Placing an order for Pet***********
+23:39:06.026 [main] INFO  api.test.StoreTests - ************Order has been placed for pet******
+23:39:06.038 [main] INFO  api.test.StoreTests - *************Get the pet info by Id**********
+23:39:07.233 [main] INFO  api.test.StoreTests - **********Pet info has been displayed******
+23:40:41.490 [main] INFO  api.test.StoreTests - ***************Placing an order for Pet***********
+23:40:45.762 [main] INFO  api.test.StoreTests - ************Order has been placed for pet******
+23:40:45.777 [main] INFO  api.test.StoreTests - *************Get the pet info by Id**********
+23:40:47.062 [main] INFO  api.test.StoreTests - **********Pet info has been displayed******
+23:41:25.960 [main] INFO  api.test.StoreTests - ***************Placing an order for Pet***********
+23:41:30.096 [main] INFO  api.test.StoreTests - ************Order has been placed for pet******
+23:41:30.104 [main] INFO  api.test.StoreTests - *************Get the pet info by Id**********
+23:41:32.467 [main] INFO  api.test.StoreTests - **********Pet info has been displayed******
+23:41:32.480 [main] INFO  api.test.StoreTests - ***********Deleting a pet by id*********
+13:42:09.944 [main] INFO  api.test.StoreTests - ***************Placing an order for Pet***********
+13:42:16.346 [main] INFO  api.test.StoreTests - ************Order has been placed for pet******
+13:42:16.363 [main] INFO  api.test.StoreTests - *************Get the pet info by Id**********
+13:42:17.546 [main] INFO  api.test.StoreTests - **********Pet info has been displayed******
+13:42:17.562 [main] INFO  api.test.StoreTests - ***********Deleting a pet by id*********

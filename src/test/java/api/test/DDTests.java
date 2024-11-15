@@ -24,7 +24,7 @@ public class DDTests
 		userPayload.setPhone(ph);
 		
 		Response response=UserEndPoints.createUser(userPayload);
-		//Assert.assertEquals(response.getStatusCode(), 200);
+		Assert.assertEquals(response.getStatusCode(), 200);
 		
 	}
 	
@@ -32,7 +32,7 @@ public class DDTests
 	public void testDeleteUserByName(String userName)
 	{
 		Response response=UserEndPoints.deleteUser(userName);
-		//Assert.assertEquals(response.getStatusCode(), 200);
+		Assert.assertEquals(response.getStatusCode(), 200);
 	}
 
 }
